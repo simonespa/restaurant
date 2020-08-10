@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ricca/Courses/!svn/ver/572/EnterpriseApplications/Students/SpaccarotellaSimone/trunk/02-Restaurant/src/spa/simone/restaurant/dao
+END
+AziendaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/ricca/Courses/!svn/ver/572/EnterpriseApplications/Students/SpaccarotellaSimone/trunk/02-Restaurant/src/spa/simone/restaurant/dao/AziendaDao.java
+END
+PietanzaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/ricca/Courses/!svn/ver/572/EnterpriseApplications/Students/SpaccarotellaSimone/trunk/02-Restaurant/src/spa/simone/restaurant/dao/PietanzaDao.java
+END
+CameriereDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/ricca/Courses/!svn/ver/572/EnterpriseApplications/Students/SpaccarotellaSimone/trunk/02-Restaurant/src/spa/simone/restaurant/dao/CameriereDao.java
+END
+GenericDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/ricca/Courses/!svn/ver/572/EnterpriseApplications/Students/SpaccarotellaSimone/trunk/02-Restaurant/src/spa/simone/restaurant/dao/GenericDao.java
+END
+IngredienteDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/ricca/Courses/!svn/ver/572/EnterpriseApplications/Students/SpaccarotellaSimone/trunk/02-Restaurant/src/spa/simone/restaurant/dao/IngredienteDao.java
+END
+PrenotazioneDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/ricca/Courses/!svn/ver/572/EnterpriseApplications/Students/SpaccarotellaSimone/trunk/02-Restaurant/src/spa/simone/restaurant/dao/PrenotazioneDao.java
+END
+CategoriaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/ricca/Courses/!svn/ver/572/EnterpriseApplications/Students/SpaccarotellaSimone/trunk/02-Restaurant/src/spa/simone/restaurant/dao/CategoriaDao.java
+END
+OrdinazioneDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/ricca/Courses/!svn/ver/572/EnterpriseApplications/Students/SpaccarotellaSimone/trunk/02-Restaurant/src/spa/simone/restaurant/dao/OrdinazioneDao.java
+END
+PrivatoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/ricca/Courses/!svn/ver/572/EnterpriseApplications/Students/SpaccarotellaSimone/trunk/02-Restaurant/src/spa/simone/restaurant/dao/PrivatoDao.java
+END
+TavoloDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/ricca/Courses/!svn/ver/572/EnterpriseApplications/Students/SpaccarotellaSimone/trunk/02-Restaurant/src/spa/simone/restaurant/dao/TavoloDao.java
+END
+DaoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/ricca/Courses/!svn/ver/572/EnterpriseApplications/Students/SpaccarotellaSimone/trunk/02-Restaurant/src/spa/simone/restaurant/dao/DaoFactory.java
+END
+MenuFissoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/ricca/Courses/!svn/ver/572/EnterpriseApplications/Students/SpaccarotellaSimone/trunk/02-Restaurant/src/spa/simone/restaurant/dao/MenuFissoDao.java
+END
+AccordoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/ricca/Courses/!svn/ver/572/EnterpriseApplications/Students/SpaccarotellaSimone/trunk/02-Restaurant/src/spa/simone/restaurant/dao/AccordoDao.java
+END
