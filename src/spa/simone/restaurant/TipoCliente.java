@@ -1,7 +1,7 @@
 /*
  * This file is part of Restaurant project.
- * 
- * Restaurant is a java project for the second assignment of Enterprise Application. 
+ *
+ * Restaurant is a java project for the second assignment of Enterprise Application.
  * Copyright (C) 2011 Simone Spaccarotella {spa.simone@gmail.com}
  *
  * This program is free software: you can redistribute it and/or modify
@@ -28,5 +28,5 @@ public interface TipoCliente {
 
    public static String AZIENDA = "azienda";
    public static String PRIVATO = "privato";
-   
+
 }
